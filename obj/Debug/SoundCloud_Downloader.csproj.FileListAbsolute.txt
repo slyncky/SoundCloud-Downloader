@@ -1,0 +1,11 @@
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\bin\Debug\SoundCloud_Downloader.exe
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\bin\Debug\SoundCloud_Downloader.pdb
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\bin\Debug\Newtonsoft.Json.dll
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\bin\Debug\Newtonsoft.Json.pdb
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\bin\Debug\Newtonsoft.Json.xml
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.csprojResolveAssemblyReference.cache
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.Form1.resources
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.Properties.Resources.resources
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.csproj.GenerateResource.Cache
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.exe
+c:\users\nico.scholtz.sagesl\documents\visual studio 2012\Projects\SoundCloud_Downloader\SoundCloud_Downloader\obj\Debug\SoundCloud_Downloader.pdb
